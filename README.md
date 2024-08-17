@@ -1,5 +1,14 @@
 [![MasterHead](https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg)](https://favourryan.netlify.app)
-## Hi there 👋
+<h2 align="center">Hey!👋, Myself Dnyaneshwar🤓</h2>
+
+I'm a third-year Computer Engineering student at Ajeenkya DY Patil School of Engineering, affiliated with Savitribai Phule Pune University (SPPU). 
+<br>
+I am passionate about software development, with a particular focus on Android development and APIs. I'm currently working on various android projects. I enjoy learning new technologies and contributing to open-source projects.
+
+Let's connect and collaborate on exciting projects!
+
+
+[![Dnyaneshwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dnyanesh3256)](https://github.com/Dnyanesh3256/github-readme-stats)
 
 <!--
 **Dnyanesh3256/Dnyanesh3256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
