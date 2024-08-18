@@ -8,7 +8,6 @@ I am passionate about software development, with a particular focus on Android d
 Let's connect and collaborate on exciting projects!
 
 
-[![Dnyaneshwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dnyanesh3256)](https://github.com/Dnyanesh3256/github-readme-stats)
 
 <!--
 **Dnyanesh3256/Dnyanesh3256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
