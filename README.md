@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/BEPb/BEPb/blob/main/assets/Bottom_up.svg)](https://favourryan.netlify.app)
 <h2 align="center">Hey!👋, Myself Dnyaneshwar🤓</h2>
 
-I'm a third-year Computer Engineering student at Ajeenkya DY Patil School of Engineering, affiliated with Savitribai Phule Pune University (SPPU). 
+I'm a final-year Computer Engineering student at Ajeenkya DY Patil School of Engineering, affiliated with Savitribai Phule Pune University (SPPU). 
 <br>
 I am passionate about software development, with a particular focus on Android development and APIs. I'm currently working on various android projects. I enjoy learning new technologies and contributing to open-source projects.
 
