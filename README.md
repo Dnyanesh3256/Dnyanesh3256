@@ -8,8 +8,6 @@
 
 Welcome to my GitHub! I'm a **Computer Engineering student** passionate about backend development, full-stack projects, and building scalable web apps. I love turning ideas into real-world solutions with **clean code**, **strong logic**, and **modern tools**.
 
-<br>
-
 ## 🛠️ Tech Stack & Core Skills
 
 ### 🧰 Languages & Frameworks
@@ -76,7 +74,6 @@ A Quora-like platform to create, edit, view, and delete posts.
 
 ## 🎓 Education
 
-### 🎓 Education  
 - **B.E. in Computer Engineering** – SPPU (2023–2026) | CGPA: 8.48  
 - **Diploma in IT** – MSBTE (2020–2023) | 86.06%  
 
