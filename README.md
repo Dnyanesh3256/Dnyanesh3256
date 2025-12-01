@@ -20,121 +20,136 @@ Welcome to my GitHub! I'm a **Computer Engineering student** passionate about ba
 | **Backend** | RESTful APIs, EJS Templating |
 | **Databases** | MongoDB • MySQL |
 
-### Core Skills
-* Data Structures & Algorithms (Java)
-* Object-Oriented Programming
-* DBMS, OS, Networking
+### 🔑 Core Skills
+- Data Structures & Algorithms (Java)  
+- Object-Oriented Programming  
+- DBMS, OS, Networking  
 
-### Tools & Platforms
+### 🧩 Tools & Platforms  
 Git • GitHub • Postman • Vercel • Render • VS Code
 
 ---
 
-## 🏗️ Projects Showcase
+# 🏗️ Projects Showcase
 
 <div align="center">
 
 <!-- StayZ -->
+<br>
 <a href="https://stayz-lriy.onrender.com" target="_blank">
   <img src="https://img.shields.io/badge/StayZ-Vacation_Rentals-blue?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-**StayZ – Vacation Rentals Made Simple**  
+### ⭐ StayZ – Vacation Rentals Made Simple  
 ✨ A responsive rental platform with filters, CRUD operations, and secure login.  
 **Tech:** Node.js · Express · MongoDB · EJS · Bootstrap  
-<br>
+
+<p>
 <a href="https://stayz-lriy.onrender.com" target="_blank">
   <img src="https://img.shields.io/badge/🔗 Live_Demo-0d6efd?style=flat-square" />
 </a>
 <a href="https://github.com/Dnyanesh3256/StayZ" target="_blank">
   <img src="https://img.shields.io/badge/📁 Repository-gray?style=flat-square" />
 </a>
+</p>
 
 ---
 
 <!-- QuoraPosts -->
+<br>
 <img src="https://img.shields.io/badge/QuoraPosts-Discussion_Platform-red?style=for-the-badge&logo=readme&logoColor=white" />
 
-**QuoraPosts – CRUD Discussion Platform**  
-📝 A Quora-like platform with Create, Edit, View, Delete post features.  
+### 📝 QuoraPosts – CRUD Discussion Platform  
+A Quora-like platform to create, edit, view, and delete posts.  
 **Tech:** Node.js · Express.js · EJS  
-<br>
+
+<p>
 <a href="https://quora-post-project-lime.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/🔗 Live_Demo-0d6efd?style=flat-square" />
 </a>
-<a href="https://github.com/Dnyanesh3256" target="_blank">
+<a href="https://github.com/Dnyanesh3256/QuoraPosts" target="_blank">
   <img src="https://img.shields.io/badge/📁 Repository-gray?style=flat-square" />
 </a>
+</p>
+
+---
+
+<!-- Stock-Verge -->
+<br>
+<img src="https://img.shields.io/badge/Stock--Verge-Stock_Trading_Platform-yellow?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+
+### 📊 Stock-Verge – Real-Time Stock Trading Platform  
+Real-time stock data visualization with clean UI.  
+**Tech:** Node.js · Express · APIs · Chart.js  
+
+<p>
+<a href="https://github.com/Dnyanesh3256/stock-verge" target="_blank">
+  <img src="https://img.shields.io/badge/📁 Repository-gray?style=flat-square" />
+</a>
+</p>
+
+---
+
+<!-- MongoChat -->
+<br>
+<img src="https://img.shields.io/badge/MongoChat-Realtime_Chat-green?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+### 💬 MongoChat – Real-Time Chat App  
+Minimal chat app with CRUD messaging and responsive UI.  
+**Tech:** Express · MongoDB · EJS  
+
+<p>
+<a href="https://github.com/Dnyanesh3256/MongoChat" target="_blank">
+  <img src="https://img.shields.io/badge/📁 Repository-gray?style=flat-square" />
+</a>
+</p>
+
+---
+
+<!-- MockDBManager -->
+<br>
+<img src="https://img.shields.io/badge/MockDBManager-Admin_Dashboard-purple?style=for-the-badge&logo=mysql&logoColor=white" />
+
+### 🛠️ MockDBManager – Admin CRUD Panel  
+Admin panel for managing user data with full CRUD operations.  
+**Tech:** Node.js · Express · MySQL · EJS  
+
+<p>
+<a href="https://github.com/Dnyanesh3256/MockDBManager" target="_blank">
+  <img src="https://img.shields.io/badge/📁 Repository-gray?style=flat-square" />
+</a>
+</p>
 
 </div>
 
 ---
 
-<!-- Stock-Verge -->
-<img src="https://img.shields.io/badge/Stock--Verge-Stock_Trading_Platform-yellow?style=for-the-badge&logo=chartdotjs&logoColor=white" />
-
-**Stock-Verge – Real-Time Stock Trading Platform**  
-📊 Real-time stock data visualization with clean and intuitive UI.  
-**Tech:** Node.js · Express · APIs · Chart.js  
-<br>
-<a href="https://github.com/Dnyanesh3256/stock-verge" target="_blank">
-  <img src="https://img.shields.io/badge/📁 Repository-gray?style=flat-square" />
-</a>
-
----
-
-<!-- MongoChat -->
-<img src="https://img.shields.io/badge/MongoChat-Realtime_Chat-green?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-**MongoChat – Real-Time Chat App**  
-💬 A minimal chat app with CRUD messaging and responsive UI.  
-**Tech:** Express · MongoDB · EJS  
-<br>
-<a href="https://github.com/Dnyanesh3256/MongoChat" target="_blank">
-  <img src="https://img.shields.io/badge/📁 Repository-gray?style=flat-square" />
-</a>
-
----
-
-<!-- MockDBManager -->
-<img src="https://img.shields.io/badge/MockDBManager-Admin_Dashboard-purple?style=for-the-badge&logo=mysql&logoColor=white" />
-
-**MockDBManager – Admin CRUD Panel**  
-🛠️ Admin panel for managing user data with full CRUD functionality.  
-**Tech:** Node.js · Express · MySQL · EJS  
-<br>
-<a href="https://github.com/Dnyanesh3256/MockDBManager" target="_blank">
-  <img src="https://img.shields.io/badge/📁 Repository-gray?style=flat-square" />
-</a>
-
----
-
 ## 💼 Professional Experience
 
-### 💻 Front End Web Development Intern – Edunet Foundation
-*Aug 2025 – Oct 2025, Pune*
-* Worked with **React.js, Bootstrap, and Node.js**.
-* Built a complete front-end project from real-world problem analysis.
-* Trained through **IBM SkillsBuild platform**.
+### 💻 Front End Web Development Intern – Edunet Foundation  
+*Aug 2025 – Oct 2025, Pune*  
+- Worked with **React.js, Bootstrap, and Node.js**  
+- Built a complete front-end project  
+- Trained via the **IBM SkillsBuild platform**  
 
-### 📱 Android Developer Intern – Mountreach Solutions Pvt. Ltd.
-*Sep 2022 – Dec 2022, Pune*
-* Developed and debugged **Android apps**.
-* Used **XML, Java, and Firebase**.
-* Implemented login systems & push notifications.
+### 📱 Android Developer Intern – Mountreach Solutions Pvt. Ltd.  
+*Sep 2022 – Dec 2022, Pune*  
+- Developed and debugged **Android apps**  
+- Used **XML, Java, Firebase**  
+- Implemented login systems & push notifications  
 
 ---
 
 ## 🎓 Education & Certifications
 
-### Education
-* **B.E. in Computer Engineering** – Savitribai Phule Pune University (2023–2026) | CGPA: 8.48
-* **Diploma in IT** – MSBTE (2020–2023) | 86.06%
+### 🎓 Education  
+- **B.E. in Computer Engineering** – SPPU (2023–2026) | CGPA: 8.48  
+- **Diploma in IT** – MSBTE (2020–2023) | 86.06%  
 
-### 🏅 Certifications
-* Data Structures & Algorithms in Java (2024)
-* Full Stack Development (2025)
-* Google Cloud Arcade Facilitator Program – Cloud & Security Foundations (2025)
+### 🏅 Certifications  
+- DSA in Java (2024)  
+- Full Stack Development (2025)  
+- Google Cloud Arcade Facilitator Program – Cloud & Security Foundations (2025)
 
 ---
 
@@ -154,15 +169,15 @@ Git • GitHub • Postman • Vercel • Render • VS Code
 
 <p align="center">
   <a href="https://dnyanesh3256.github.io/Portfolio_Website/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://github.com/Dnyanesh3256" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/dnyaneshwar-tupe/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:dbtupe3256@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
