@@ -6,7 +6,7 @@
 
 ## 🚀 Full Stack Developer (MERN) | Problem Solver
 
-Welcome to my GitHub! I'm a **Computer Engineering student** passionate about backend development, full-stack projects, and building scalable web apps. I love turning ideas into real-world solutions with **clean code**, **strong logic**, and **modern tools**.
+Welcome to my GitHub! I'm Computer Engineering student strong in Java, OOP, DSA, and core CS subjects. Experienced in backend and Full Stack Development (MERN) using Node.js, Express.js, and MongoDB. Skilled in building APIs, solving problems, and writing clean, efficient code.
 
 ## 🛠️ Tech Stack & Core Skills
 
@@ -25,6 +25,13 @@ Welcome to my GitHub! I'm a **Computer Engineering student** passionate about ba
 
 ### 🧩 Tools & Platforms  
 Git • GitHub • Postman • Vercel • Render • VS Code
+
+---
+
+## 🎓 Education
+
+- **B.E. in Computer Engineering** – SPPU (2023–2026) | CGPA: 8.48  
+- **Diploma in IT** – MSBTE (2020–2023) | 86.06%  
 
 ---
 
@@ -69,13 +76,6 @@ A Quora-like platform to create, edit, view, and delete posts.
   <img src="https://img.shields.io/badge/📁 Repository-gray?style=flat-square" />
 </a>
 </p>
-
----
-
-## 🎓 Education
-
-- **B.E. in Computer Engineering** – SPPU (2023–2026) | CGPA: 8.48  
-- **Diploma in IT** – MSBTE (2020–2023) | 86.06%  
 
 ---
 
