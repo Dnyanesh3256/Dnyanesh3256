@@ -1,117 +1,168 @@
-🌟 Hi, I'm Dnyaneshwar Tupe!
-🚀 Full Stack Developer (MERN) | Java Enthusiast | Problem Solver
+<div align="center">
+  <h1>👋 Hi, I'm Dnyaneshwar Tupe!</h1>
+</div>
 
-Welcome to my GitHub! I’m a Computer Engineering student passionate about backend development, full-stack projects, and building scalable web apps. I love turning ideas into real-world solutions with clean code, strong logic, and modern tools.
+---
 
-🧰 Tech Stack
-Languages
+## 🚀 Full Stack Developer (MERN) | Problem Solver
 
-🟦 Java • 🟨 JavaScript • 🐍 Python • 🛢️ SQL
+Welcome to my GitHub! I'm a **Computer Engineering student** passionate about backend development, full-stack projects, and building scalable web apps. I love turning ideas into real-world solutions with **clean code**, **strong logic**, and **modern tools**.
 
-Core Skills
+<br>
 
-Data Structures & Algorithms (Java)
+## 🛠️ Tech Stack & Core Skills
 
-Object-Oriented Programming
+### 🧰 Languages & Frameworks
+| Category | Stack/Skills |
+| :--- | :--- |
+| **Languages** | 🟦 Java • 🟨 JavaScript • 🐍 Python • 🛢️ SQL |
+| **Full Stack** | **MERN Stack** (MongoDB, Express.js, React.js, Node.js) |
+| **Backend** | RESTful APIs, EJS Templating |
+| **Databases** | MongoDB • MySQL |
 
-DBMS, OS, Networking
+### Core Skills
+* Data Structures & Algorithms (Java)
+* Object-Oriented Programming
+* DBMS, OS, Networking
 
-Full Stack & Frameworks
-
-MERN Stack (MongoDB, Express.js, React.js, Node.js)
-
-RESTful APIs
-
-EJS Templating
-
-Databases
-
-MongoDB • MySQL
-
-Tools & Platforms
-
+### Tools & Platforms
 Git • GitHub • Postman • Vercel • Render • VS Code
 
-🏗️ Projects
-🔹 StayZ – Vacation Rentals Made Simple
+---
 
-Tech: Node.js, Express.js, MongoDB, EJS, Bootstrap
-A responsive platform for browsing, filtering, and reviewing vacation rentals.
-✔ CRUD operations with Express.js
-✔ Secure login with Passport.js
-✔ Deployed using Vercel & MongoDB Atlas
-🔗 Live: https://stayz-lriy.onrender.com
+## 🏗️ Projects Showcase
 
-🔹 Stock-Verge – Real-Time Stock Trading Platform
+<div align="center">
 
-Web-based stock trading interface with real-time insights, market data visualization, and a clean UI for stock enthusiasts.
+<!-- StayZ -->
+<a href="https://stayz-lriy.onrender.com" target="_blank">
+  <img src="https://img.shields.io/badge/StayZ-Vacation_Rentals-blue?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-🔹 MongoChat – Real-Time Chat App
+**StayZ – Vacation Rentals Made Simple**  
+✨ A responsive rental platform with filters, CRUD operations, and secure login.  
+**Tech:** Node.js · Express · MongoDB · EJS · Bootstrap  
+<br>
+<a href="https://stayz-lriy.onrender.com" target="_blank">
+  <img src="https://img.shields.io/badge/🔗 Live_Demo-0d6efd?style=flat-square" />
+</a>
+<a href="https://github.com/Dnyanesh3256/StayZ" target="_blank">
+  <img src="https://img.shields.io/badge/📁 Repository-gray?style=flat-square" />
+</a>
 
-Tech: Express.js, MongoDB, EJS
-Live chat with CRUD message handling.
-✔ Real-time-like experience
-✔ Simple and clean UI
+---
 
-🔹 MockDBManager
+<!-- QuoraPosts -->
+<img src="https://img.shields.io/badge/QuoraPosts-Discussion_Platform-red?style=for-the-badge&logo=readme&logoColor=white" />
 
-Tech: Node.js, Express, MySQL, EJS
-Admin dashboard for managing user data using full CRUD operations.
+**QuoraPosts – CRUD Discussion Platform**  
+📝 A Quora-like platform with Create, Edit, View, Delete post features.  
+**Tech:** Node.js · Express.js · EJS  
+<br>
+<a href="https://quora-post-project-lime.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/🔗 Live_Demo-0d6efd?style=flat-square" />
+</a>
+<a href="https://github.com/Dnyanesh3256" target="_blank">
+  <img src="https://img.shields.io/badge/📁 Repository-gray?style=flat-square" />
+</a>
 
-🔹 QuoraPosts – CRUD Discussion Platform
+</div>
 
-Tech: Node.js, Express.js, EJS
-A lightweight Quora-like application where users can create, edit, and delete posts.
+---
 
-💼 Experience
-💻 Front End Web Development Intern – Edunet Foundation
+<!-- Stock-Verge -->
+<img src="https://img.shields.io/badge/Stock--Verge-Stock_Trading_Platform-yellow?style=for-the-badge&logo=chartdotjs&logoColor=white" />
 
-Aug 2025 – Oct 2025, Pune
+**Stock-Verge – Real-Time Stock Trading Platform**  
+📊 Real-time stock data visualization with clean and intuitive UI.  
+**Tech:** Node.js · Express · APIs · Chart.js  
+<br>
+<a href="https://github.com/Dnyanesh3256/stock-verge" target="_blank">
+  <img src="https://img.shields.io/badge/📁 Repository-gray?style=flat-square" />
+</a>
 
-Worked with React.js, Bootstrap, and Node.js
+---
 
-Built a complete front-end project from real-world problem analysis
+<!-- MongoChat -->
+<img src="https://img.shields.io/badge/MongoChat-Realtime_Chat-green?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-Trained through IBM SkillsBuild platform
+**MongoChat – Real-Time Chat App**  
+💬 A minimal chat app with CRUD messaging and responsive UI.  
+**Tech:** Express · MongoDB · EJS  
+<br>
+<a href="https://github.com/Dnyanesh3256/MongoChat" target="_blank">
+  <img src="https://img.shields.io/badge/📁 Repository-gray?style=flat-square" />
+</a>
 
-📱 Android Developer Intern – Mountreach Solutions Pvt. Ltd.
+---
 
-Sep 2022 – Dec 2022, Pune
+<!-- MockDBManager -->
+<img src="https://img.shields.io/badge/MockDBManager-Admin_Dashboard-purple?style=for-the-badge&logo=mysql&logoColor=white" />
 
-Developed and debugged Android apps
+**MockDBManager – Admin CRUD Panel**  
+🛠️ Admin panel for managing user data with full CRUD functionality.  
+**Tech:** Node.js · Express · MySQL · EJS  
+<br>
+<a href="https://github.com/Dnyanesh3256/MockDBManager" target="_blank">
+  <img src="https://img.shields.io/badge/📁 Repository-gray?style=flat-square" />
+</a>
 
-Used XML, Java, and Firebase
+---
 
-Implemented login systems & push notifications
+## 💼 Professional Experience
 
-🎓 Education
+### 💻 Front End Web Development Intern – Edunet Foundation
+*Aug 2025 – Oct 2025, Pune*
+* Worked with **React.js, Bootstrap, and Node.js**.
+* Built a complete front-end project from real-world problem analysis.
+* Trained through **IBM SkillsBuild platform**.
 
-B.E. in Computer Engineering – CGPA: 8.48
-Savitribai Phule Pune University (2023–2026)
+### 📱 Android Developer Intern – Mountreach Solutions Pvt. Ltd.
+*Sep 2022 – Dec 2022, Pune*
+* Developed and debugged **Android apps**.
+* Used **XML, Java, and Firebase**.
+* Implemented login systems & push notifications.
 
-Diploma in IT – 86.06%
-MSBTE (2020–2023)
+---
 
-🏅 Certifications
+## 🎓 Education & Certifications
 
-Data Structures & Algorithms in Java (2024)
+### Education
+* **B.E. in Computer Engineering** – Savitribai Phule Pune University (2023–2026) | CGPA: 8.48
+* **Diploma in IT** – MSBTE (2020–2023) | 86.06%
 
-Full Stack Development (2025)
+### 🏅 Certifications
+* Data Structures & Algorithms in Java (2024)
+* Full Stack Development (2025)
+* Google Cloud Arcade Facilitator Program – Cloud & Security Foundations (2025)
 
-Google Cloud Arcade Facilitator Program – Cloud & Security Foundations (2025)
+---
 
-🌐 Connect with Me
+## 🚀 GitHub Stats
 
-🔗 Portfolio: https://dnyanesh3256.github.io/Portfolio_Website/
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Dnyanesh3256&theme=tokyonight" 
+    alt="GitHub Streak" 
+    width="60%"
+  />
+</p>
 
-🐙 GitHub: https://github.com/Dnyanesh3256
+---
 
-💼 LinkedIn: https://www.linkedin.com/in/dnyaneshwar-tupe/
+## 🌐 Connect with Me
 
-📧 Email: dbtupe3256@gmail.com
-
-![Dnyaneshwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dnyanesh3256&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dnyanesh3256&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dnyanesh3256&theme=tokyonight)
+<p align="center">
+  <a href="https://dnyanesh3256.github.io/Portfolio_Website/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+  <a href="https://github.com/Dnyanesh3256" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dnyaneshwar-tupe/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:dbtupe3256@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</p>
