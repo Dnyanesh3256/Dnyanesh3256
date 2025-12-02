@@ -35,59 +35,13 @@ Git • GitHub • Postman • Vercel • Render • VS Code
 
 ---
 
-# 🏗️ Projects Showcase
-
-<div align="center">
-
-<!-- StayZ -->
-<br>
-<a href="https://stayz-lriy.onrender.com" target="_blank">
-  <img src="https://img.shields.io/badge/StayZ-Vacation_Rentals-blue?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-### ⭐ StayZ – Vacation Rentals Made Simple  
-✨ A responsive rental platform with filters, CRUD operations, and secure login.  
-**Tech:** Node.js · Express · MongoDB · EJS · Bootstrap  
-
-<p>
-<a href="https://stayz-lriy.onrender.com" target="_blank">
-  <img src="https://img.shields.io/badge/🔗 Live_Demo-0d6efd?style=flat-square" />
-</a>
-<a href="https://github.com/Dnyanesh3256/StayZ" target="_blank">
-  <img src="https://img.shields.io/badge/📁 Repository-gray?style=flat-square" />
-</a>
-</p>
-
----
-
-<!-- QuoraPosts -->
-<br>
-<img src="https://img.shields.io/badge/QuoraPosts-Discussion_Platform-red?style=for-the-badge&logo=readme&logoColor=white" />
-
-### 📝 QuoraPosts – CRUD Discussion Platform  
-A Quora-like platform to create, edit, view, and delete posts.  
-**Tech:** Node.js · Express.js · EJS  
-
-<p>
-<a href="https://quora-post-project-lime.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/🔗 Live_Demo-0d6efd?style=flat-square" />
-</a>
-<a href="https://github.com/Dnyanesh3256/QuoraPosts" target="_blank">
-  <img src="https://img.shields.io/badge/📁 Repository-gray?style=flat-square" />
-</a>
-</p>
-
----
-
 ## 🚀 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Dnyanesh3256&theme=tokyonight" 
-    alt="GitHub Streak" 
-    width="60%"
-  />
-</p>
+![Dnyaneshwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dnyanesh3256&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dnyanesh3256&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dnyanesh3256&theme=tokyonight)
 
 ---
 
