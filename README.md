@@ -38,14 +38,6 @@ Git • GitHub • Postman • Vercel • Render • VS Code
 ## 🚀 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dnyanesh3256&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dnyanesh3256&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dnyanesh3256&theme=tokyonight" alt="GitHub Streak" width="60%" />
 </p>
 
